@@ -1,0 +1,21 @@
+,id,team,position,points,playedGames,won,lost,draw,goalsFor,goalsAgainst,goalDifference,form
+0,98,AC Milan,1,67,31,20,4,7,56,29,27,Good
+1,113,SSC Napoli,2,66,31,20,5,6,56,23,33,Good
+2,108,FC Internazionale Milano,3,63,30,18,3,9,63,24,39,Good
+3,109,Juventus FC,4,59,31,17,6,8,47,27,20,Good
+4,100,AS Roma,5,54,31,16,9,6,51,35,16,Good
+5,110,SS Lazio,6,52,31,15,9,7,60,46,14,Good
+6,102,Atalanta BC,7,51,30,14,7,9,52,34,18,Good
+7,99,ACF Fiorentina,8,50,30,15,10,5,49,38,11,Good
+8,450,Hellas Verona FC,9,45,31,12,10,9,56,47,9,Good
+9,471,US Sassuolo Calcio,10,43,31,11,10,10,56,51,5,Good
+10,586,Torino FC,11,38,30,10,12,8,35,30,5,Bad
+11,103,Bologna FC 1909,12,34,30,9,14,7,32,44,-12,Bad
+12,115,Udinese Calcio,13,33,29,7,10,12,41,47,-6,Bad
+13,445,Empoli FC,14,33,31,8,14,9,41,56,-15,Bad
+14,488,Spezia Calcio,15,32,31,9,17,5,32,54,-22,Bad
+15,584,UC Sampdoria,16,29,31,8,18,5,39,52,-13,Bad
+16,104,Cagliari Calcio,17,25,31,5,16,10,29,59,-30,Bad
+17,454,Venezia FC,18,22,30,5,18,7,25,55,-30,Bad
+18,107,Genoa CFC,19,22,31,2,13,16,23,48,-25,Bad
+19,455,US Salernitana 1919,20,16,29,3,19,7,22,66,-44,Bad

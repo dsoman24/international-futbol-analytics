@@ -1,0 +1,21 @@
+,id,team,position,points,playedGames,won,lost,draw,goalsFor,goalsAgainst,goalDifference,form
+0,86,Real Madrid CF,1,72,31,22,3,6,63,26,37,Good
+1,81,FC Barcelona,2,60,30,17,4,9,60,31,29,Good
+2,559,Sevilla FC,3,60,31,16,3,12,44,22,22,Good
+3,78,Atlético de Madrid,4,60,32,18,8,6,59,39,20,Good
+4,90,Real Betis Balompié,5,57,32,17,9,6,56,37,19,Good
+5,92,Real Sociedad,6,55,32,15,7,10,32,30,2,Good
+6,94,Villarreal CF,7,49,32,13,9,10,51,31,20,Good
+7,77,Athletic Club de Bilbao,8,45,31,11,8,12,36,30,6,Good
+8,79,CA Osasuna,9,44,32,12,12,8,33,41,-8,Good
+9,95,Valencia CF,10,42,32,10,10,12,44,46,-2,Good
+10,80,RCD Espanyol de Barcelona,11,39,32,10,13,9,37,44,-7,Bad
+11,558,RC Celta de Vigo,12,36,31,9,13,9,34,35,-1,Bad
+12,285,Elche CF,13,35,32,9,15,8,35,44,-9,Bad
+13,87,Rayo Vallecano,14,34,31,9,15,7,32,38,-6,Bad
+14,82,Getafe CF,15,32,32,7,14,11,29,37,-8,Bad
+15,83,Granada CF,16,29,32,6,15,11,36,56,-20,Bad
+16,89,RCD Mallorca,17,29,32,7,17,8,27,53,-26,Bad
+17,264,Cádiz CF,18,28,31,5,13,13,26,43,-17,Bad
+18,88,Levante Unión Deportiva,19,25,32,5,17,10,39,62,-23,Bad
+19,263,Deportivo Alavés,20,25,32,6,19,7,25,53,-28,Bad

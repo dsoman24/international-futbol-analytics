@@ -1,0 +1,21 @@
+,id,team,position,points,playedGames,won,lost,draw,goalsFor,goalsAgainst,goalDifference,form
+0,98,AC Milan,1,74,34,22,4,8,60,30,30,Good
+1,108,Inter,2,72,34,21,4,9,72,28,44,Good
+2,113,Napoli,3,67,34,20,7,7,61,30,31,Good
+3,109,Juventus,4,66,34,19,6,9,52,30,22,Good
+4,100,Roma,5,58,34,17,10,7,55,40,15,Good
+5,110,Lazio,6,56,34,16,10,8,66,50,16,Good
+6,99,Fiorentina,7,56,34,17,12,5,54,46,8,Good
+7,102,Atalanta,8,55,34,15,9,10,61,43,18,Good
+8,450,Hellas Verona,9,49,34,13,11,10,59,51,8,Good
+9,471,U.S. Sassuolo Calcio,10,46,34,12,12,10,59,55,4,Good
+10,586,Torino F.C.,11,44,34,11,12,11,42,36,6,Bad
+11,115,Udinese Calcio,12,43,34,10,11,13,53,52,1,Bad
+12,103,Bologna,13,42,34,11,14,9,39,48,-9,Bad
+13,445,Empoli,14,37,34,9,15,10,45,62,-17,Bad
+14,488,Spezia,15,33,34,9,19,6,34,59,-25,Bad
+15,584,U.C. Sampdoria,16,30,34,8,20,6,41,57,-16,Bad
+16,104,Cagliari,17,28,34,6,18,10,31,62,-31,Bad
+17,455,US Salernitana 1919,18,25,33,6,20,7,28,70,-42,Bad
+18,107,Genoa,19,25,34,3,15,16,25,54,-29,Bad
+19,454,Venezia FC,20,22,33,5,21,7,27,61,-34,Bad

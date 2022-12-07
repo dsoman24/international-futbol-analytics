@@ -1,0 +1,21 @@
+,id,team,position,points,playedGames,won,lost,draw,goalsFor,goalsAgainst,goalDifference,form
+0,65,Manchester City FC,1,73,30,23,3,4,70,18,52,Good
+1,64,Liverpool FC,2,72,30,22,2,6,77,20,57,Good
+2,61,Chelsea FC,3,59,29,17,4,8,58,23,35,Good
+3,73,Tottenham Hotspur FC,4,54,30,17,10,3,52,37,15,Good
+4,57,Arsenal FC,5,54,29,17,9,3,44,34,10,Good
+5,563,West Ham United FC,6,51,31,15,10,6,51,40,11,Good
+6,66,Manchester United FC,7,51,30,14,7,9,49,41,8,Good
+7,76,Wolverhampton Wanderers FC,8,49,31,15,12,4,33,27,6,Good
+8,354,Crystal Palace FC,9,37,30,8,9,13,42,38,4,Bad
+9,338,Leicester City FC,10,37,28,10,11,7,43,47,-4,Bad
+10,58,Aston Villa FC,11,36,30,11,16,3,42,42,0,Bad
+11,340,Southampton FC,12,36,30,8,10,12,37,46,-9,Bad
+12,397,Brighton & Hove Albion FC,13,34,30,7,10,13,26,36,-10,Bad
+13,402,Brentford FC,14,33,31,9,16,6,37,48,-11,Bad
+14,67,Newcastle United FC,15,31,30,7,13,10,33,54,-21,Bad
+15,341,Leeds United FC,16,30,31,7,15,9,35,68,-33,Bad
+16,62,Everton FC,17,25,28,7,17,4,30,49,-19,Bad
+17,346,Watford FC,18,22,30,6,20,4,29,57,-28,Bad
+18,328,Burnley FC,19,21,28,3,13,12,22,40,-18,Bad
+19,68,Norwich City FC,20,18,30,4,20,6,18,63,-45,Bad

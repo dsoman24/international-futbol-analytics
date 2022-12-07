@@ -1,0 +1,21 @@
+,id,team,position,points,playedGames,won,lost,draw,goalsFor,goalsAgainst,goalDifference,form
+0,524,Paris Saint-Germain,1,78,34,24,4,6,76,31,45,Good
+1,516,Olympique de Marseille,2,65,34,19,7,8,56,33,23,Good
+2,529,Stade Rennais FC,3,59,34,18,11,5,75,36,39,Good
+3,548,AS Monaco,4,59,34,17,9,8,55,35,20,Good
+4,522,OGC Nice,5,57,34,17,10,7,43,29,14,Good
+5,576,RC Strasbourg Alsace,6,56,34,15,8,11,55,36,19,Good
+6,546,Racing Club de Lens,7,54,34,15,10,9,53,42,11,Good
+7,523,Olympique Lyonnais,8,52,34,14,9,11,56,45,11,Good
+8,521,LOSC Lille,9,51,34,13,9,12,42,40,2,Good
+9,543,FC Nantes,10,50,34,14,12,8,48,41,7,Good
+10,512,Stade Brestois 29,11,45,34,12,13,9,43,48,-5,Bad
+11,518,Montpellier Hérault SC,12,42,34,12,16,6,46,51,-5,Bad
+12,547,Stade de Reims,13,40,34,9,12,13,36,37,-1,Bad
+13,532,Angers SCO,14,35,34,8,15,11,38,51,-13,Bad
+14,525,FC Lorient,15,34,34,8,16,10,33,57,-24,Bad
+15,531,ESTAC Troyes,16,33,34,8,17,9,30,47,-17,Bad
+16,541,Clermont Foot 63,17,33,34,8,17,9,35,63,-28,Bad
+17,527,AS Saint-Étienne,18,31,34,7,17,10,38,68,-30,Bad
+18,526,FC Girondins de Bordeaux,19,27,34,5,17,12,47,84,-37,Bad
+19,545,FC Metz,20,24,34,4,18,12,29,60,-31,Bad
